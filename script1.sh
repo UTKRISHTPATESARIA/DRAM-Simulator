@@ -1,0 +1,39 @@
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_1.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_2.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_3.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_4.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_5.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_6.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_7.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_8.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_9.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_10.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_11.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_12.ini -t benchmarks/new_traces.out -c 657465042 -o bench1-results/
+
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_1.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_2.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_3.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_4.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_5.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_6.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_7.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_8.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_9.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_10.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_11.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_12.ini -t benchmarks/new_traces_1.out -c 651176720 -o bench2-results/
+
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_1.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_2.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_3.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_4.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_5.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_6.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_7.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_8.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_9.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_10.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_11.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+./build/dramsim3main configs/DDR3_4Gb_x4_1600_12.ini -t benchmarks/new_traces_2.out -c 651173678 -o bench3-results/
+
